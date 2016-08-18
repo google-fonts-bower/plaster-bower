@@ -1,0 +1,17 @@
+{
+    "name": "plaster-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sorkin Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/plaster-bower.git"
+    },
+    "description": "Plaster font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
